@@ -1,0 +1,19 @@
+{
+  "name": "mfe-demo-vite",
+  "private": false,
+  "workspaces": {
+    "packages": [
+      "remote",
+      "local"
+    ]
+  },
+  "scripts": {
+    "start": "lerna run dev",
+    "build": "lerna run build",
+    "preview": "lerna run preview"
+  },
+  "devDependencies": {
+    "@originjs/vite-plugin-federation": "^1.1.14",
+    "lerna": "^6.4.1"
+  }
+}
