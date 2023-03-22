@@ -1,5 +1,9 @@
 # Docker Example
 
+```sh
+npm install
+```
+
 ## Remote:
 
 In one terminal run:
