@@ -15,7 +15,7 @@ export default defineConfig({
       name: "remote",
       filename: "remoteEntry.js",
       exposes: {
-        "./Header": "./src/components/Header.vue",
+        "./Header": "./src/Header.vue",
       },
       remotes: {},
       shared: ["vue"],

@@ -1,13 +1,12 @@
 <script setup>
-import Header from "@/components/Header.vue";
+import Header from "@/Header.vue";
 </script>
 
 <template>
     <div class="container">
         <Header />
-        <div>Name: remote</div>
-        <div>Framework: vue3</div>
-        <div>Language: JavaScript</div>
-        <div>CSS: Empty CSS</div>
+        <div>Name: REMOTE</div>
+        <div>Framework: Vue 3</div>
+        <div>:Vite</div>
     </div>
 </template>

@@ -7,8 +7,7 @@ const Header = defineAsyncComponent(() => import("remote/Header"));
   <div class="container">
       <Header />
       <div>Name: LOCAL</div>
-      <div>Framework: vue2</div>
-      <div>Language: JavaScript</div>
-      <div>CSS: Empty CSS</div>
+      <div>Framework: Vue 3</div>
+      <div>:Vite</div>
   </div>
 </template>
